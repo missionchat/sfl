@@ -8,3 +8,6 @@ https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-VAD-AAR/1080p/index.m3u8
 #EXTINF:0,20:30 Grasshopper Club Zürich  vs FC Chiasso
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-GC-CHI/1080p/index.m3u8
+#EXTINF:0,MI 18:15 FC Stade-Lausanne-Ouchy vs FC Wil
+#EXTGRP:unsorted
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-SLO-WIL/1080p/index.m3u8
