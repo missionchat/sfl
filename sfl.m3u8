@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0,tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png" 18:15 FC Chiasso vs FC Winterthur
+#EXTINF:0,18:15 FC Chiasso vs FC Winterthur tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png"
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-CHI-WIN/1080p/index.m3u8
-#EXTINF:0,tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png" 18:15 FC Schaffhausen vs SC Kriens
+#EXTINF:0,18:15 FC Schaffhausen vs SC Kriens tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png"
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-FCS-SCK/1080p/index.m3u8
-#EXTINF:0,tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png" SA 18:15 FC Aarau vs FC Stade-Lausanne-Ouchy
+#EXTINF:0,SA 18:15 FC Aarau vs FC Stade-Lausanne-Ouchy tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png"
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-AAR-SLO/1080p/index.m3u8
-#EXTINF:0,tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png" SA 20:30 FC Wil vs FC Vaduz
+#EXTINF:0,SA 20:30 FC Wil vs FC Vaduz tvg-logo="https://www.sfl.ch/fileadmin/_processed_/8/a/csm_chl-menu_034bae312f.png"
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-WIL-VAD/1080p/index.m3u8
