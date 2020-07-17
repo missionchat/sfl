@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:0,18:15 FC Winterthur vs FC Schaffhausen
+#EXTINF:0,18:15 FC Chiasso vs FC Winterthur
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-WIN-FCS/1080p/index.m3u8
-#EXTINF:0,20:30 FC Vaduz vs FC Aarau
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-CHI-WIN/1080p/index.m3u8
+#EXTINF:0,18:15 FC Schaffhausen vs SC Kriens
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-VAD-AAR/1080p/index.m3u8
-#EXTINF:0,20:30 Grasshopper Club Zürich  vs FC Chiasso
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-FCS-SCK/1080p/index.m3u8
+#EXTINF:0,SA 18:15 FC Aarau vs FC Stade-Lausanne-Ouchy
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-GC-CHI/1080p/index.m3u8
-#EXTINF:0,MI 18:15 FC Stade-Lausanne-Ouchy vs FC Wil
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-AAR-SLO/1080p/index.m3u8
+#EXTINF:0,SA 20:30 FC Wil vs FC Vaduz
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/31-SLO-WIL/1080p/index.m3u8
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/32-WIL-VAD/1080p/index.m3u8
