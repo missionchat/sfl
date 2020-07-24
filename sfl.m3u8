@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,18:15 FC Aarau vs FC Chiasso
+#EXTINF:-1,18:15 FC Schaffhausen vs FC Stade-Lausanne-Ouchy
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/33-AAR-CHI/1080p/index.m3u8
-#EXTINF:-1,18:15 FC Winterthur vs FC Wil 1900
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-FCS-SLO/1080p/index.m3u8
+#EXTINF:-1,18:15 SC Kriens vs Grasshopper Club Zürich
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/33-WIN-WIL/1080p/index.m3u8
-#EXTINF:-1,20:30 FC Stade-Lausanne-Ouchy vs SC Kriens
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-SCK-GC/1080p/index.m3u8
+#EXTINF:-1,20:30 FC Wil 1900 - FC Aarau
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/33-SLO-SCK/1080p/index.m3u8
-#EXTINF:-1,20:30 Grasshopper Club Zürich vs FC Schaffhausen
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-WIL-AAR/1080p/index.m3u8
+#EXTINF:-1,SA 18:15 FC Chiasso - FC Vaduz
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/33-GC-FCS/1080p/index.m3u8
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-CHI-VAD/1080p/index.m3u8
