@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,FC Aarau - FC Schaffhausen
+#EXTINF:-1,
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/18-AAR-FCS/1080p/index.m3u8
-#EXTINF:-1,FC Chiasso - FC Stade-Lausanne-Ouchy
+#EXTINF:-1,
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/18-CHI-SLO/1080p/index.m3u8
-#EXTINF:-1,FC Thun - SC Kriens
+#EXTINF:-1,
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/18-THU-SCK/1080p/index.m3u8
-#EXTINF:-1,FC Wil - Neuchâtel Xamax FCS
+#EXTINF:-1,Grasshopper Club Zürich - FC Chiasso
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/18-WIL-XAM/1080p/index.m3u8
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/19-GC-CHI-2021/1080p/index.m3u8
