@@ -1,4 +1,13 @@
 #EXTM3U
-#EXTINF:-1,CUP Grasshopper Club Zürich vs FC Lausanne-Sport
+#EXTINF:-1,FR 19:00, FC Chiasso vs FC Wil
 #EXTGRP:unsorted
-https://srgssrrcdvr3ch-lh.akamaihd.net/i/enc3rcdvr_ch@780143/index_2000_av-p.m3u8?sd=10&start=1614183570&rebase=on&id=AgBNOa4rUENSz8Z8NmCFNfnho7rexr5070HyN6hFc+IEfP1peVxnzip6oOWUD4MjI01DK+69me1Kcg%3d%3d
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/22-CHI-WIL-2021/1080p/index.m3u8
+#EXTINF:-1,FR 19:00, SC Kriens vs Neuchâtel Xamax FCS
+#EXTGRP:unsorted
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/22-SCK-XAM-2021/1080p/index.m3u8
+#EXTINF:-1,SA 18:15, Grasshopper Club Zürich vs FC Schaffhausen
+#EXTGRP:unsorted
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/22-GC-FCS-2021/1080p/index.m3u8
+#EXTINF:-1,FR 20:00, FC Thun vs FC Stade-Lausanne-Ouchy
+#EXTGRP:unsorted
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/22-THU-SLO-2021/1080p/index.m3u8
