@@ -5,10 +5,7 @@ https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-FCS-SCK/1080p/index.m3u8
 #EXTINF:-1,Neuchâtel Xamax FCS vs FC Chiasso
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-XAM-CHI-2021/1080p/index.m3u8
-#EXTINF:-1,FC Wil
-#EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-WIN-WIL/1080p/index.m3u8
-#EXTINF:-1, vs FC Winterthur
+#EXTINF:-1,FC Wil vs FC Winterthur
 #EXTGRP:unsorted
 https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-WIN-WIL/1080p/index.m3u8
 #EXTINF:-1,FC Aarau vs FC Thun
