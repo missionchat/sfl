@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,FC Schaffhausen vs SC Kriens
+#EXTINF:-1,FC Chiasso vs FC Aarau
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-FCS-SCK/1080p/index.m3u8
-#EXTINF:-1,Neuchâtel Xamax FCS vs FC Chiasso
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/24-CHI-AAR/1080p/index.m3u8
+#EXTINF:-1,FC Schaffhausen vs Stade Lausanne Ouchy
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-XAM-CHI-2021/1080p/index.m3u8
-#EXTINF:-1,FC Wil vs FC Winterthur
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/24-FCS-SLO/1080p/index.m3u8
+#EXTINF:-1,FC Wil vs Neuchâtel Xamax FCS
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-WIN-WIL/1080p/index.m3u8
-#EXTINF:-1,FC Aarau vs FC Thun
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/24-WIL-XAM/1080p/index.m3u8
+#EXTINF:-1,SA 18:15 FC Thun vs SC Kriens
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/23-AAR-THU-2021/1080p/index.m3u8
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/24-THU-SCK-2021/1080p/index.m3u8
