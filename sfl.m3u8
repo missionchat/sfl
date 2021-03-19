@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1,SA 18:15 FC Stade-Lausanne-Ouchy vs FC Chiasso
+#EXTINF:-1,FC Chiasso vs FC Thun
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/25-SLO-CHI-2021/1080p/index.m3u8
-#EXTINF:-1,SA 18:15 FC Aarau vs FC Wil
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/26-CHI-THU-2021/1080p/index.m3u8
+#EXTINF:-1,Neuchâtel Xamax FCS vs FC Stade-Lausanne-Ouchy
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/25-AAR-WIL-2021/1080p/index.m3u8
-#EXTINF:-1,FR 19:00 Neuchâtel Xamax FCS vs FC Schaffhausen
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/26-XAM-SLO-2021/1080p/index.m3u8
+#EXTINF:-1,FC Schaffhausen vs FC Winterthur
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/25-XAM-FCS-2021/1080p/index.m3u8
-#EXTINF:-1,FR 20:00 SC Kriens vs Grasshopper Club Zürich
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/26-FCS-WIN-2021/1080p/index.m3u8
+#EXTINF:-1,FC Wil vs SC Kriens
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/25-SCK-GC-2021/1080p/index.m3u8
+https://d1t49lbiau98sq.cloudfront.net/live/sfl/26-WIL-SCK-2021/1080p/index.m3u8
