@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1,FC Aarau vs SC Kriens
+#EXTINF:-1,FC Widnau vs GCZ
 #EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-AAR-SCK-2021/1080p/index.m3u8
-#EXTINF:-1,FC Stade-Lausanne-Ouchy vs Neuchâtel Xamax FCS
-#EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-SLO-XAM-2021/1080p/index.m3u8
-#EXTINF:-1,FC Wil vs FC Chiasso
-#EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-WIL-CHI-2021/1080p/index.m3u8
-#EXTINF:-1,FC Thun vs FC Schaffhausen
-#EXTGRP:unsorted
-https://d1t49lbiau98sq.cloudfront.net/live/sfl/34-THU-FCS-2021/1080p/index.m3u8
+https://srgssrrcdvr1ch-lh.akamaihd.net/i/enc1rcdvr_ch@780131/index_2000_av-p.m3u8?sd=10&start=1629028170&rebase=on&id=AgBNOa4rrd5s9If%2fGGFCnOLk7x0CSvJ%2fcvqd7BcreBqHEQzdliV9ZHK5aDtL1Oyr6BGObUjT2ta7bw%3d%3d#EXTINF:-1,FC Stade-Lausanne-Ouchy vs Neuchâtel Xamax FCS
